@@ -39,3 +39,29 @@ Route::get('db/show/{id?}', 'FrontendController@show');
 Route::get('db/update/{id?}', 'FrontendController@update');
 
 Route::get('db/destroy', 'FrontendController@destroy');
+
+Route::resource('frontend', 'FrontendController');
+
+Route::resource('category', 'CategoryController');
+
+//Route::get('category', 'CategoryController@index');
+//
+//Route::get('category/create', 'CategoryController@create');
+//
+//Route::post('category', 'CategoryController@store');
+//
+//Route::get('category/{category}', 'CategoryController@show');
+//
+//Route::get('category/{category}/edit', 'CategoryController@edit');
+//
+//Route::post('category/{category}', 'CategoryController@update');
+//
+//Route::get('category/{category}/delete', 'CategoryController@delete');
+//
+//Route::post('category/{category}/dodelete', 'CategoryController@dodelete');
+
+
+Route::resource('admin/post', 'admin\PostController');
+
+
+

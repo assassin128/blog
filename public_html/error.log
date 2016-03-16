@@ -1,0 +1,32 @@
+[16-Mar-2016 03:39:12 UTC] PHP Fatal error:  Label 'Route' already defined in F:\Winginx\home\blog\public_html\app\Http\routes.php on line 45
+[16-Mar-2016 03:40:09 UTC] PHP Fatal error:  Label 'Route' already defined in F:\Winginx\home\blog\public_html\app\Http\routes.php on line 45
+[16-Mar-2016 03:40:16 UTC] PHP Fatal error:  Label 'Route' already defined in F:\Winginx\home\blog\public_html\app\Http\routes.php on line 45
+[16-Mar-2016 03:41:52 UTC] PHP Fatal error:  Label 'Route' already defined in F:\Winginx\home\blog\public_html\app\Http\routes.php on line 45
+[16-Mar-2016 04:37:59 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 9
+[16-Mar-2016 04:38:10 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 9
+[16-Mar-2016 04:38:12 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 9
+[16-Mar-2016 04:38:57 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 8
+[16-Mar-2016 04:40:29 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 8
+[16-Mar-2016 04:40:30 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 8
+[16-Mar-2016 04:40:31 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 8
+[16-Mar-2016 04:40:44 UTC] PHP Fatal error:  Cannot use Illuminate\Http\Request as Request because the name is already in use in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 8
+[16-Mar-2016 04:49:24 UTC] PHP Fatal error:  Class 'Form' not found in F:\Winginx\home\blog\public_html\storage\framework\views\47a6d6796cb8736d1f83b774dc0fede8 on line 3
+[16-Mar-2016 04:50:23 UTC] PHP Fatal error:  Class 'Form' not found in F:\Winginx\home\blog\public_html\storage\framework\views\47a6d6796cb8736d1f83b774dc0fede8 on line 3
+[16-Mar-2016 04:50:24 UTC] PHP Fatal error:  Class 'Form' not found in F:\Winginx\home\blog\public_html\storage\framework\views\47a6d6796cb8736d1f83b774dc0fede8 on line 3
+[16-Mar-2016 04:50:25 UTC] PHP Fatal error:  Class 'Form' not found in F:\Winginx\home\blog\public_html\storage\framework\views\47a6d6796cb8736d1f83b774dc0fede8 on line 3
+[16-Mar-2016 06:24:01 UTC] PHP Fatal error:  Call to a member function save() on array in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 46
+[16-Mar-2016 06:26:56 UTC] PHP Fatal error:  Call to a member function save() on array in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 50
+[16-Mar-2016 06:30:54 UTC] PHP Parse error:  syntax error, unexpected 'return' (T_RETURN) in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 55
+[16-Mar-2016 06:47:16 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 44
+[16-Mar-2016 06:49:00 UTC] PHP Fatal error:  Call to undefined method Illuminate\Support\Facades\Request::all() in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 44
+[16-Mar-2016 08:38:56 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\Winginx\home\blog\public_html\storage\framework\views\7635a84c4b97d0cff15b7a035c680879 on line 10
+[16-Mar-2016 08:39:19 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\Winginx\home\blog\public_html\storage\framework\views\7635a84c4b97d0cff15b7a035c680879 on line 10
+[16-Mar-2016 09:10:44 UTC] PHP Fatal error:  Call to undefined method Illuminate\Foundation\Application::getCachedCompilePath() in F:\Winginx\home\blog\public_html\vendor\laravel\framework\src\Illuminate\Foundation\Console\ClearCompiledCommand.php on line 28
+[16-Mar-2016 09:12:48 UTC] PHP Fatal error:  Call to undefined method Illuminate\Foundation\Application::getCachedCompilePath() in F:\Winginx\home\blog\public_html\vendor\laravel\framework\src\Illuminate\Foundation\Console\ClearCompiledCommand.php on line 28
+[16-Mar-2016 09:15:37 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\Winginx\home\blog\public_html\storage\framework\views\d1d85d22a55f0fae89f8990d6f22767c on line 12
+[16-Mar-2016 09:15:45 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\Winginx\home\blog\public_html\storage\framework\views\d1d85d22a55f0fae89f8990d6f22767c on line 12
+[16-Mar-2016 09:15:49 UTC] PHP Parse error:  syntax error, unexpected ';' in F:\Winginx\home\blog\public_html\storage\framework\views\d1d85d22a55f0fae89f8990d6f22767c on line 12
+[16-Mar-2016 09:34:20 UTC] PHP Fatal error:  Call to a member function save() on array in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 109
+[16-Mar-2016 09:36:36 UTC] PHP Fatal error:  Call to a member function save() on array in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 112
+[16-Mar-2016 09:50:41 UTC] PHP Fatal error:  Cannot use isset() on the result of a function call (you can use "null !== func()" instead) in F:\Winginx\home\blog\public_html\storage\framework\views\7635a84c4b97d0cff15b7a035c680879 on line 9
+[16-Mar-2016 10:15:59 UTC] PHP Fatal error:  Class 'App\Http\Controllers\DB' not found in F:\Winginx\home\blog\public_html\app\Http\Controllers\CategoryController.php on line 22
